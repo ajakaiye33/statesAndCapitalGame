@@ -52,6 +52,7 @@ for i in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]:
     print('Thats incorrect\n the capital of  ' + state + ' is ' + capital +  '\n better up next time!!')
     #print('You got ' + str(count_correct_guess) + ' question(s), out of ten questions right')
 #print('You got ' + int(count_correct_guess) + ' question(s), out of ten questions right')
+print('Well done!! Game over')
 
 
 
